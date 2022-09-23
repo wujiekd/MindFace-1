@@ -71,6 +71,6 @@ CMIC has won 24 Grand Challenge Champion Awards from premier conferences, includ
 - Shenshen Du, ``dushens[at]mail.ustc.edu.cn``
 - Liwen Zhang, ``zlw1113[at]mail.ustc.edu.cn``
 - Hao Chang, ``changhaoustc[at]mail.ustc.edu.cn``
-- Zhongpeng Cai, ``czp_2402242823[at]mail.ustc.edu.cn``
+- Zhongpeng Cai, ``czp_2402242823mail.ustc.edu.cn``
 - Peng He, ``hp0618[at]mail.ustc.edu.cn``
-- Keda Lu, ``wujiekd666[at]gmail.com``
+- Keda Lu, ``lukeda[at]mail.ustc.edu.cn``
